@@ -1,0 +1,31 @@
+html {
+	font-family: Georgia, serif;
+}
+
+body  {
+	background-color: lightgrey;
+  margin: 25px 50px 75px 100px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+nav {
+  background-color: whitesmoke;
+  text-align: center;
+  padding: 10px; 
+} 
+
+article.one {
+  float:left;
+  width: 40%;
+  margin: 10px;
+}
+
+article.two {
+  float:right;
+  width: 40%;
+  margin: 10px;
+}
